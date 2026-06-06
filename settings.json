@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Immortal_D3mon.aternos.me",
+    "port": 22839,
     "version": "1.20.1",
     "try-creative": false
   },
