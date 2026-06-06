@@ -1,10 +1,4 @@
-export {};
-
-// Polyfill for Repl.it env
-declare global {
-	namespace NodeJS {
-		interface Process {
-			readonly PORT?: number;
-		}
-	}
-}
+node_modules/
+npm-debug.log*
+.env
+*.log
